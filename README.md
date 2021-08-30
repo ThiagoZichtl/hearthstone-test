@@ -31,18 +31,18 @@ http://localhost:8080/cards/add
     "defense": 10
 }
 
-# Classes:
+# cardClass:
   0 - Mage
   1 - Paladin
   2 - Hunter
   3 - Druid
   4 - Any
   
-# Tipo:
+# cardType:
   0 - Magic
   1 - Creature
   
-# Ataque e Defesa:
+# Attack / Defense:
   Valores de 0 a 10
 ```
 ## Consulta por ID (GET)
