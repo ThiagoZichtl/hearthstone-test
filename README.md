@@ -6,7 +6,7 @@
 
 
 # Desenvolvimento
-#### O projeto foi desenvolvido utilizando SpringBoot utilizando o IntelliJ, e tendo como banco de dados o PostgreSQL
+#### A aplicação foi desenvolvida no IntelliJ utilizando SpringBoot, tendo seu banco de dados no PostgreSQL.
 Devido à problemas de conexão, não foi possível finalizar o deploy do projeto em um hospederio (Heroku)
 
 ### Banco de Dados
